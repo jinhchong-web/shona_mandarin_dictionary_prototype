@@ -44,15 +44,27 @@ Raw datasets and corpora used by the project are **not included in this reposito
 
 ![App Screenshot](Interface/assets/Screenshot1.png)
 
-*Example: Interface allow user change the retrieval dataset, Shona word segmentation method, and number of result.
+<br>
+
+*Example: Interface allow user change the retrieval dataset, Shona word segmentation method, and number of result.*
+
+<br>
 
 ![App Screenshot](Interface/assets/Screenshot2.png)
 
-*Example: Mandarin word input example.
+<br>
+
+*Example: Mandarin word input example.*
+
+<br>
 
 ![App Screenshot](Interface/assets/Screenshot3.png)
 
-*Example: Shona word input example.
+<br>
+
+*Example: Shona word input example.*
+
+<br>
 
 ---
 
