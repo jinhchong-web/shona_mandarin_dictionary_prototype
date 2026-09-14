@@ -40,6 +40,16 @@ Raw datasets and corpora used by the project are **not included in this reposito
 
 ---
 
+## 🖥️ Demo
+
+![App Screenshot](Interface/assets/Screenshot1.png)
+
+![App Screenshot](Interface/assets/Screenshot2.png)
+
+![App Screenshot](Interface/assets/Screenshot3.png)
+
+---
+
 ## 📚 Data Sources
 
 The datasets used to build and evaluate the prototype are not distributed with this repository. Please download them directly from their original sources.
