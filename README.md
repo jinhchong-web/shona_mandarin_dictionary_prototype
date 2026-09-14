@@ -42,29 +42,20 @@ Raw datasets and corpora used by the project are **not included in this reposito
 
 ## 🖥️ Demo
 
-![App Screenshot](Interface/assets/Screenshot1.png)
+<div align="center">
+  <img src="Interface/assets/Screenshot1.png" alt="App Screenshot" width="700">
+  <p><em>Example: Interface allow user change the retrieval dataset (3a - English gloss embedded only, 3b - English gloss + POS [Part of Speech] embedding), Shona word segmentation method, and number of result.</em></p>
+</div>
 
-<br>
+<div align="center">
+  <img src="Interface/assets/Screenshot2.png" alt="App Screenshot" width="700">
+  <p><em>Example: Mandarin word input example.</em></p>
+</div>
 
-*Example: Interface allow user change the retrieval dataset, Shona word segmentation method, and number of result.*
-
-<br>
-
-![App Screenshot](Interface/assets/Screenshot2.png)
-
-<br>
-
-*Example: Mandarin word input example.*
-
-<br>
-
-![App Screenshot](Interface/assets/Screenshot3.png)
-
-<br>
-
-*Example: Shona word input example.*
-
-<br>
+<div align="center">
+  <img src="Interface/assets/Screenshot3.png" alt="App Screenshot" width="700">
+  <p><em>Example: Shona word input example.</em></p>
+</div>
 
 ---
 
